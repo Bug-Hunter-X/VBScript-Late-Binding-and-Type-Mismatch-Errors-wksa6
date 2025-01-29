@@ -1,0 +1,1 @@
+Late Binding and Type Mismatches: VBScript is loosely typed, meaning you don't explicitly declare variable types.  This can lead to runtime errors if you attempt operations on incompatible data types.  For example, trying to concatenate a number with a string without explicit type conversion can cause unexpected results or errors.
